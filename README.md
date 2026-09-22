@@ -1,53 +1,48 @@
-<h1 align="center">Hi 👋, I'm Rankothge Shehan Sewmina</h1>
-
-<h3 align="center">
-Software Engineering Student | Full-Stack Developer | Building Practical Software Solutions
-</h3>
+<!-- ===================== HERO ===================== -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sewminashehan2004-star&label=Profile%20views&color=0e75b6&style=flat" alt="sewminashehan2004-star" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1f2937,100:0ea5e9&height=220&section=header&text=Rankothge%20Shehan%20Sewmina&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Full-Stack+Developer;Building+Practical+Software+Solutions;Turning+Ideas+Into+Real-World+Projects"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sewminashehan2004-star">
+    <img src="https://img.shields.io/github/followers/sewminashehan2004-star?label=Followers&style=for-the-badge&color=0ea5e9"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sewminashehan2004-star&label=Profile%20Views&style=for-the-badge&color=111827"/>
 </p>
 
 ---
+
+<!-- ===================== ABOUT ===================== -->
+
+<h2 align="center">👋 About Me</h2>
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-## 👨‍💻 About Me
+### 🚀 Who I Am
 
-- 🌱 I’m currently learning **React, Node.js, ASP.NET Core, Web APIs, and Advanced C#**
+I'm **Rankothge Shehan Sewmina**, a **Software Engineering Student** and **Full-Stack Developer** focused on building practical software solutions.
 
-- 👯 I’m looking to collaborate on **Web applications, software projects, and innovative student projects**
+I enjoy turning ideas into real-world projects and continuously improving my development skills through hands-on work.
 
-- 🤝 I’m looking for help with **Building scalable applications and improving full-stack development skills**
+### 🎯 My Current Focus
 
-- 👨‍💻 All of my projects are available at  
-  **https://github.com/sewminashehan2004-star**
-
-- 💬 Ask me about **C++, C#, PHP, MySQL,Python, JavaScript, Android Development, and Web Development**
-
-- 📫 How to reach me **sewminashehan2004@gmail.com**
-
-- 📄 Know about my experiences  
-  **https://github.com/sewminashehan2004-star**
-
-- ⚡ Fun fact **I enjoy turning ideas into real-world software projects 🚀**
+- 🌱 Learning **React, Node.js, ASP.NET Core, Web APIs, and Advanced C#**
+- 👯 Looking to collaborate on **Web applications, software projects, and innovative student projects**
+- 🤝 Looking for help with **Building scalable applications and improving full-stack development skills**
+- 💬 Ask me about **C++, C#, PHP, MySQL, Python, JavaScript, Android Development, and Web Development**
 
 </td>
 
-<td width="45%" valign="middle" align="center">
+<td width="45%" valign="top">
 
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%">
-
-<br><br>
-
-### 🚀 My Development Focus
-
-**Web Development**  
-**Software Engineering**  
-**Full-Stack Development**  
-**Application Development**
+<img src="https://github.com/user-attachments/assets/8b5f0f90-1b9d-4e2a-b6b3-1b6a5cbb3a74" width="100%"/>
 
 </td>
 </tr>
@@ -55,109 +50,60 @@ Software Engineering Student | Full-Stack Developer | Building Practical Softwar
 
 ---
 
-<h2 align="center">🌐 Connect with me</h2>
+<!-- ===================== QUICK INFO ===================== -->
+
+<h2 align="center">⚡ Quick Info</h2>
 
 <p align="center">
-
-<a href="https://linkedin.com/in/shehan sewmina" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" alt="shehan sewmina"/>
-</a>
-
-<a href="https://fb.com/shehan sewmina" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="50" alt="shehan sewmina"/>
-</a>
-
-<a href="https://instagram.com/shehan_sewmina_19" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="50" alt="shehan_sewmina_19"/>
-</a>
-
-<a href="https://www.youtube.com/c/@shehanxplay2004" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40" width="50" alt="@shehanxplay2004"/>
-</a>
-
-<a href="https://discord.gg/shehansewmina." target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="40" width="50" alt="shehansewmina."/>
-</a>
-
-</p>
-
----
-
-<h2 align="center">💻 Languages and Tools</h2>
-
-<p align="center">
-
-<a href="https://developer.android.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="45" height="45"/>
-</a>
-
-<a href="https://www.blender.org/" target="_blank">
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="45" height="45"/>
-</a>
-
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-</a>
-
-<a href="https://www.w3schools.com/cs/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-</a>
-
-<a href="https://dotnet.microsoft.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="45" height="45"/>
-</a>
-
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
-</a>
-
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-</a>
-
-<a href="https://www.java.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-</a>
-
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-</a>
-
-<a href="https://www.php.net" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</a>
-
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-</a>
-
-</p>
-
----
-
-<h2 align="center">🚀 My Projects</h2>
 
 <table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 💻
+<strong>Development</strong><br/>
+Full-Stack<br/>
+Web & Software
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+<strong>Learning</strong><br/>
+React<br/>
+Node.js & ASP.NET Core
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛠️
+<strong>Building</strong><br/>
+Real-World<br/>
+Software Projects
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+<strong>Goal</strong><br/>
+Improve<br/>
+Every Project
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+
 <tr>
 
 <td width="50%" valign="top">
@@ -170,7 +116,7 @@ A C++ console application for managing books, buyers, sellers, shopping carts, p
 
 <p align="center">
 <a href="https://github.com/sewminashehan2004-star/Genius-Book-Management-System">
-<img src="https://img.shields.io/badge/View%20Project-Repository-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -181,37 +127,187 @@ A C++ console application for managing books, buyers, sellers, shopping carts, p
 <h3 align="center">🌍 GlobeTrek Travel Website</h3>
 
 <p align="center">
-A PHP-based travel booking website for destinations, travel packages, bookings, payments, customers, staff, and administrators.
+A PHP-based travel booking website for exploring destinations, viewing travel packages, managing bookings, payments, customers, staff, and administrators.
 </p>
 
 <p align="center">
 <a href="https://github.com/sewminashehan2004-star/GlobeTrek-Travel-Website">
-<img src="https://img.shields.io/badge/View%20Project-Repository-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-22c55e?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 </td>
 
 </tr>
+
+</table>
+
+<p align="center">
+<a href="https://github.com/sewminashehan2004-star?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+<h2 align="center">💻 Languages & Tools</h2>
+
+<p align="center">
+
+<a href="https://www.w3schools.com/cpp/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+</a>
+
+<a href="https://www.w3schools.com/cs/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
+</a>
+
+<a href="https://www.php.net/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
+</a>
+
+<a href="https://www.java.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</a>
+
+<a href="https://react.dev/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+</a>
+
+<a href="https://nodejs.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+</a>
+
+<a href="https://dotnet.microsoft.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt="ASP.NET Core"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+</a>
+
+<a href="https://www.figma.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
+</a>
+
+<a href="https://firebase.google.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+</a>
+
+<a href="https://developer.android.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45" alt="Android"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+</a>
+
+</p>
+
+---
+
+<!-- ===================== CURRENT LEARNING ===================== -->
+
+<h2 align="center">🌱 Currently Learning</h2>
+
+<table align="center">
+<tr>
+<td align="center">
+
+**React**
+
+Building modern user interfaces
+
+</td>
+
+<td align="center">
+
+**Node.js**
+
+Backend development
+
+</td>
+
+<td align="center">
+
+**ASP.NET Core**
+
+Web APIs & scalable applications
+
+</td>
+
+<td align="center">
+
+**Advanced C#**
+
+Backend & application development
+
+</td>
+</tr>
 </table>
 
 ---
 
-<h2 align="center">📊 GitHub Activity</h2>
+<!-- ===================== CONNECT ===================== -->
+
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sewminashehan2004-star&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats"/>
+<a href="https://linkedin.com/in/shehan sewmina" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://fb.com/shehan sewmina" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/shehan_sewmina_19" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/c/@shehanxplay2004" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/shehansewmina." target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sewminashehan2004-star&theme=dark&hide_border=true" alt="GitHub Streak"/>
-
+📫 <strong>sewminashehan2004@gmail.com</strong>
 </p>
 
 ---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+<h2 align="center">📊 GitHub Activity</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sewminashehan2004-star&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sewminashehan2004-star&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+---
+
+<!-- ===================== CONTRIBUTIONS ===================== -->
 
 <h2 align="center">🐍 Contribution Activity</h2>
 
@@ -221,8 +317,16 @@ A PHP-based travel booking website for destinations, travel packages, bookings, 
 
 ---
 
-<h2 align="center">⭐ Thank You for Visiting My Profile</h2>
+<!-- ===================== FOOTER ===================== -->
 
 <p align="center">
-Feel free to explore my repositories and projects.
+
+### ⚡ I enjoy turning ideas into real-world software projects 🚀
+
+<strong>Thanks for visiting my GitHub profile!</strong>
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1f2937,100:111827&height=120&section=footer"/>
 </p>
