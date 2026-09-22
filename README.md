@@ -1,10 +1,10 @@
 <!-- ====================================================== -->
-<!-- HERO -->
+<!--                         HERO                           -->
 <!-- ====================================================== -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:0f4c81,100:38bdf8&height=280&section=header&text=RANKOTHGE%20SHEHAN%20SEWMINA&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,45:0f4c81,100:38bdf8&height=275&section=header&text=RANKOTHGE%20SHEHAN%20SEWMINA&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
     width="100%"
     alt="Rankothge Shehan Sewmina"
   />
@@ -12,221 +12,304 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;Full-Stack+Developer;Building+Practical+Software+Solutions;Turning+Ideas+Into+Real-World+Projects"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;Full-Stack+Developer;Web+Application+Developer;Building+Practical+Software+Solutions"
     alt="Typing introduction"
   />
 </p>
 
 <p align="center">
   <a href="https://github.com/sewminashehan2004-star">
-    <img src="https://img.shields.io/badge/GitHub-sewminashehan2004--star-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img
+      src="https://img.shields.io/badge/GitHub-sewminashehan2004--star-111827?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
   <a href="mailto:sewminashehan2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img
+      src="https://img.shields.io/badge/Email-Contact-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 </p>
-
----
-
-# 👋 About Me
-
-> **I'm Rankothge Shehan Sewmina**, a **Software Engineering Student** and **Full-Stack Developer** focused on building practical software solutions.
->
-> I enjoy turning ideas into real-world projects and continuously improving my development skills through hands-on work.
 
 <br>
 
-### Currently learning
+<!-- ====================================================== -->
+<!--                       ABOUT ME                         -->
+<!-- ====================================================== -->
 
-`React` · `Node.js` · `ASP.NET Core` · `Web APIs` · `Advanced C#`
-
-### Looking to collaborate on
-
-`Web applications` · `Software projects` · `Innovative student projects`
-
-### Looking for help with
-
-`Building scalable applications` · `Improving full-stack development skills`
-
-### Ask me about
-
-`C++` · `C#` · `PHP` · `MySQL` · `Python` · `JavaScript` · `Android Development` · `Web Development`
-
-### Contact
-
-📫 **sewminashehan2004@gmail.com**
-
----
-
-# ⚡ What I Build
+<h2 align="center">👋 About Me</h2>
 
 <p align="center">
-  <strong>WEB APPLICATIONS</strong>
-  &nbsp; / &nbsp;
-  <strong>SOFTWARE SYSTEMS</strong>
-  &nbsp; / &nbsp;
-  <strong>FULL-STACK SOLUTIONS</strong>
-  &nbsp; / &nbsp;
-  <strong>APPLICATION DEVELOPMENT</strong>
+  I'm <strong>Rankothge Shehan Sewmina</strong>, a Software Engineering Student and Full-Stack Developer passionate about building practical software solutions.
 </p>
 
 <p align="center">
+  I enjoy turning ideas into real-world applications while continuously improving my development and software engineering skills.
+</p>
+
+<br>
+
+<!-- ====================================================== -->
+<!--                    TECHNOLOGIES                        -->
+<!-- ====================================================== -->
+
+<h2 align="center">⚡ Technologies & Tools</h2>
+
+<p align="center">
   <img
-    src="https://skillicons.dev/icons?i=cpp,cs,php,java,js,py,react,nodejs,dotnet,mysql,git,figma,firebase,android,vscode"
-    alt="Languages and Tools"
+    src="https://skillicons.dev/icons?i=cpp,cs,php,java,js,py,html,css,react,nodejs,dotnet,mysql,firebase,git,github,vscode,visualstudio,figma,androidstudio"
+    alt="Technologies and Tools"
   />
 </p>
 
----
+<br>
 
-# 🚀 Selected Work
+<!-- ====================================================== -->
+<!--                  FEATURED PROJECTS                     -->
+<!-- ====================================================== -->
 
-## 📚 Genius Book Management System
+<h2 align="center">🚀 Featured Projects</h2>
 
-**C++ · OOP · File Handling**
+<br>
 
-A console-based bookshop management system designed to manage books, buyers, sellers, shopping carts, purchases, and sales.
+<!-- WORKHUB -->
 
-<p>
-  <a href="https://github.com/sewminashehan2004-star/Genius-Book-Management-System">
-    <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Genius Book Management System">
+<p align="center">
+  <strong>🏆 WORKHUB</strong>
+</p>
+
+<p align="center">
+  <strong>All-In-One Trusted Platform</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+</p>
+
+<p align="center">
+  A full-stack platform connecting users with jobs, services,
+  marketplace opportunities and businesses.
+</p>
+
+<p align="center">
+  <a href="https://github.com/sewminashehan2004-star/WORKHUB-ALL-IN-ONE-TRUSTED-PLATFORM">
+    <img
+      src="https://img.shields.io/badge/VIEW%20PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=white"
+      alt="WORKHUB"
+    />
   </a>
 </p>
 
----
+<br>
 
-## 🌍 GlobeTrek Travel Website
+<!-- GLOBETREK -->
 
-**PHP · MySQL · HTML · CSS · JavaScript · XAMPP**
+<p align="center">
+  <strong>🌍 GlobeTrek</strong>
+</p>
 
-A travel booking website for exploring destinations, viewing travel packages, making bookings, managing payments, and handling customer, staff, and administrator operations.
+<p align="center">
+  <strong>Travel Booking Web Application</strong>
+</p>
 
-<p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+<p align="center">
+  Travel platform with packages, bookings, payments and separate
+  customer, staff and administrator functionality.
+</p>
+
+<p align="center">
   <a href="https://github.com/sewminashehan2004-star/GlobeTrek-Travel-Website">
-    <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="GlobeTrek Travel Website">
+    <img
+      src="https://img.shields.io/badge/VIEW%20PROJECT-22C55E?style=for-the-badge&logo=github&logoColor=white"
+      alt="GlobeTrek"
+    />
   </a>
 </p>
 
----
+<br>
+
+<!-- GENIUS BOOK -->
+
+<p align="center">
+  <strong>📚 Genius Book Management System</strong>
+</p>
+
+<p align="center">
+  <strong>C++ OOP Application</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-Concept-0f4c81?style=flat-square" />
+  <img src="https://img.shields.io/badge/File%20Handling-Concept-0f4c81?style=flat-square" />
+</p>
+
+<p align="center">
+  Console-based bookshop management system covering books, buyers,
+  sellers, shopping carts and sales.
+</p>
+
+<p align="center">
+  <a href="https://github.com/sewminashehan2004-star/Genius-Book-Management-System">
+    <img
+      src="https://img.shields.io/badge/VIEW%20PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white"
+      alt="Genius Book Management System"
+    />
+  </a>
+</p>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/sewminashehan2004-star?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories">
+    <img
+      src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white"
+      alt="All Repositories"
+    />
   </a>
 </p>
 
----
+<br>
 
-# 🧠 Currently Learning
+<!-- ====================================================== -->
+<!--                 CURRENTLY LEARNING                     -->
+<!-- ====================================================== -->
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-Currently%20Learning-61DAFB?style=flat-square&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Node.js-Currently%20Learning-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/ASP.NET%20Core-Currently%20Learning-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-<img src="https://img.shields.io/badge/Advanced%20C%23-Currently%20Learning-239120?style=flat-square&logo=csharp&logoColor=white">
-
-</p>
-
----
-
-# 🛠️ Technology Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,php,java,js,py" alt="Programming languages">
-</p>
-
-### Web & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,dotnet" alt="Web technologies">
-</p>
-
-### Database & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,figma,vscode,android" alt="Tools and databases">
-</p>
-
----
-
-# 🌐 Connect With Me
+<h2 align="center">🧠 Currently Learning</h2>
 
 <p align="center">
-
-<a href="https://linkedin.com/in/shehan sewmina">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://fb.com/shehan sewmina">
-  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-
-<a href="https://instagram.com/shehan_sewmina_19">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<a href="https://www.youtube.com/@shehanxplay2004">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-
-<a href="mailto:sewminashehan2004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-</p>
-
----
-
-# 🎯 Development Journey
-
-<p align="center">
-
-<strong>LEARN</strong>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-<strong>BUILD</strong>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-<strong>TEST</strong>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-<strong>IMPROVE</strong>
-
+  <img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,cs" alt="Currently Learning">
 </p>
 
 <p align="center">
-Every project is an opportunity to learn something new.
+  <code>React</code>
+  &nbsp; • &nbsp;
+  <code>Node.js</code>
+  &nbsp; • &nbsp;
+  <code>ASP.NET Core</code>
+  &nbsp; • &nbsp;
+  <code>Advanced C#</code>
 </p>
 
----
+<br>
 
-# 🔗 Explore My Work
+<!-- ====================================================== -->
+<!--                  DEVELOPMENT FOCUS                     -->
+<!-- ====================================================== -->
+
+<h2 align="center">🎯 Development Focus</h2>
 
 <p align="center">
-
-<a href="https://github.com/sewminashehan2004-star">
-  <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
-</a>
-
-<a href="https://github.com/sewminashehan2004-star?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
-</a>
-
+  💻 Full-Stack Development
+  &nbsp; • &nbsp;
+  🔌 Web APIs
+  &nbsp; • &nbsp;
+  🗄️ Database Development
 </p>
 
----
+<p align="center">
+  🎨 UI/UX
+  &nbsp; • &nbsp;
+  📱 Application Development
+  &nbsp; • &nbsp;
+  🚀 Real-World Software Projects
+</p>
+
+<br>
+
+<!-- ====================================================== -->
+<!--                   GITHUB STREAK                       -->
+<!-- ====================================================== -->
+
+<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=sewminashehan2004-star&theme=dark&hide_border=true&background=0B1220&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"
+    alt="GitHub Streak"
+  />
+</p>
 
-### ⚡ Building. Learning. Improving.
+<br>
 
-<strong>Thanks for visiting my profile!</strong> 🚀
+<!-- ====================================================== -->
+<!--                  CONNECT WITH ME                       -->
+<!-- ====================================================== -->
 
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://github.com/sewminashehan2004-star">
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:sewminashehan2004@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@shehanxplay2004">
+    <img
+      src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+      alt="YouTube"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/shehan_sewmina_19">
+    <img
+      src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  📫 <strong>sewminashehan2004@gmail.com</strong>
+</p>
+
+<br>
+
+<!-- ====================================================== -->
+<!--                     FOOTER                             -->
+<!-- ====================================================== -->
+
+<p align="center">
+  <strong>⚡ Learn • Build • Improve</strong>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! 🚀
 </p>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0f4c81,100:0b1220&height=150&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0f4c81,100:0b1220&height=140&section=footer"
     width="100%"
     alt="Footer"
   />
